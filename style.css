@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(cornflowerblue, lightskyblue);
+}
+#h3upthere{
+    width: 100%;
+    top: 0;
+    font-size: 30px;
+}
+#h3underthere{
+    text-align: center;
+}
+canvas{
+    background-color: aliceblue;
+    border: black 5px;
+}
